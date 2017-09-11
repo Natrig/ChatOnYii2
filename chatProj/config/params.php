@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'adminEmail' => 'rustem2301@inbox.ru',
+    'adminEmail' => '',
 	'dir_tmpl' => '/views/site/',
 ];
